@@ -7,5 +7,6 @@ How well do you remember basic primary school math?
 * Run the code and compare your result! 
 
 _Usage_
+
 	javac MathTest.java
 	java MathTest
